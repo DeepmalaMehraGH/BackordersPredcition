@@ -23,4 +23,13 @@ Below tasks are performed
     	Relationship among features
 
     	Data questioning
+    
+•	Model training and validation
+
+    	train-test split of the data
+    
+    	Model training
+ 
+    	Model Tuning and cross validation
+
 
